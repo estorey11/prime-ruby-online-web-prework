@@ -1,4 +1,6 @@
 # Add  code here!
 def prime(i)
-  max=
+  max=sqrt(i)
+  tests[2..max]
+  
 end
